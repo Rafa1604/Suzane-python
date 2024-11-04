@@ -22,7 +22,7 @@ Caso o usuário opte por utilizar a versão LabirintoComEmocao será necessário
 
 bash pip install pillow
 
-Certifique-se que a imagem apresentada no fim esteja no mesmo diretório que o arquivo do jogo e com o nome suzane.jpg.
+ Certifique-se que a imagem apresentada no fim esteja no mesmo diretório que o arquivo do jogo e com o nome suzane.jpg.
 
 #Como jogar
 
